@@ -1,23 +1,21 @@
 # 👋 Hi, I'm Valentin Malassigné
 
 - 🎓 Student at École 42 Le Havre  
-- 💻 Currently a Frontend Developer Intern @ Rakuten France  
 - 📍 Based in Paris | 🇫🇷 French & 🇬🇧 English speaker
 - 🏆 Won MBC 2025 Base Track Hackathon : [BaseLens](https://baselens.tech)
 
 
 ## 🔎 Currently learning
-- Base ecosystem development
+- Full Stack development
 - Anything happenigng Web 3 & Blockchain 
-- AI augmented software
 
 ## 🛠️ Top Skills
 - Typescript
 - React & Next.js
+- Node.js
 - Flutter
 - Team work
 - Git
-- (soon) Solidity
 
 ## 🚀 Notable Projects
 - **[common_core_42](https://github.com/ValentinMalassigne/common_core_42):** My 42 school projects
